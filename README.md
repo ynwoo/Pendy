@@ -31,7 +31,7 @@
 
 # 아키텍처
 
-![image](/uploads/7f17a7c59391e17b6d82f36f504eb932/image.png)
+![image](https://github.com/yoonwoo-kim/Pendy/assets/59324129/565b3b09-6bb9-40bd-8f3d-022cb6b8d10b)
 
 # 기술 스택
 
@@ -54,7 +54,8 @@
 
 # 팀원 소개 및 협업 툴
 
-![image](/uploads/55f73d6ee41dbe82cdf0e24522d3e567/image.png)
+![image](https://github.com/yoonwoo-kim/Pendy/assets/59324129/d6a39890-2845-4330-bb35-38d7b872353a)
+
 
 - GitLab
   - 코드 버전 관리
